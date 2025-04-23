@@ -13,9 +13,7 @@ mentor to help people to find their first job.
 
 Frontend : React, Typescript, Redux Toolkit, Next.js, MobX, Redux Toolkit Query, Javascript,
 Zustand, React-hook-form, Storybook, Material UI, D3.js, Charts.js, HTML (HTML5), CSS
-(CSS3), SASS, LESS, BEM, Styled components, Bootstrap, Swiper, React-hot-toast, framer-
-motion, React Testing Library, Jest, Websocket, WebRTC. OpenGraph, GraphQL, Express,
-Node.js, i18n,Effector, Patronum, TanStack Query, React Query, Storybook
+(CSS3), SASS, LESS, BEM, Styled components, Bootstrap, Swiper, React Testing Library, Jest, Websocket, WebRTC, i18n,Effector, React Query, Storybook
 
 Other : ESlint, Prettier, Git/Github, Vite, Webpack
 
