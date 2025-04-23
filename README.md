@@ -39,7 +39,6 @@ enhancing user satisfaction and SEO rankings.
 integration testing with Cypress.
 - Real-Time Data Visualization: Developed interactive dashboards using D3.js, increasing
 user engagement with data by **20 %.**
-- Wrote unit\integration tests.
 - Followed WCAG 2.1 to improve accessibility.
 
 Technologies: React, Redux Toolkit(RTK), Typescript, Next.js, D3.js, Sockets.io, Jest
