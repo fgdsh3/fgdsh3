@@ -41,8 +41,7 @@ integration testing with Cypress.
 user engagement with data by **20 %.**
 - Wrote unit\integration tests.
 - Followed WCAG 2.1 to improve accessibility.
-```
-```
+
 Technologies: React, Redux Toolkit(RTK), Typescript, Next.js, D3.js, Sockets.io, Jest
 ```
 ### Sberbank: July 2020 - Jan 2022 (1y 6m)
@@ -66,8 +65,6 @@ settings.
 data caching for an improved user experience.
 - Optimized the use of SSR and SSG in Next.js and separated all tasks as much as possible
 (client and server components), consequently increasing seo in the Lighthouse.
-```
-```
 Technologies: React, Redux Toolkit(RTK), Typescript, Next.js, Ant Design(ANDT), Chart.js
 ```
 
@@ -82,8 +79,6 @@ Worked with a logistics-related CRM system
 - Worked with google maps API.
 - Implemented the front part of the notification system
 - Authored project documentation and worked with Webpack configuration.
-```
-```
 Technologies: React, Redux, Javascript
 ```
 ## EDUCATION
