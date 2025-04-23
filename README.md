@@ -1,32 +1,31 @@
 ## ABOUT
 
-```
+
 Frontend developer with 6 + years of experience. I built app architecture from scratch,
 worked solo or in a team of 30 developers, was working in big tech and startups. Familiar
 with microfrontends, design systems, animations and real-time features using
 Websockets. I understand the entire development cycle (CI - CD). I Have experience with
 Scrum/Agile methodologies. I have served as a buddy for new developers, acted as a
 mentor to help people to find their first job.
-```
+
 ## SKILLS
 
-```
+
 Frontend : React, Typescript, Redux Toolkit, Next.js, MobX, Redux Toolkit Query, Javascript,
 Zustand, React-hook-form, Storybook, Material UI, D3.js, Charts.js, HTML (HTML5), CSS
 (CSS3), SASS, LESS, BEM, Styled components, Bootstrap, Swiper, React-hot-toast, framer-
 motion, React Testing Library, Jest, Websocket, WebRTC. OpenGraph, GraphQL, Express,
 Node.js, i18n,Effector, Patronum, TanStack Query, React Query, Storybook
-```
-```
+
 Other : ESlint, Prettier, Git/Github, Vite, Webpack
-```
+
 
 
 ## EXPERIENCE
 
 ###  Reputation House: Jan 2022 – Present (3y+)
 
-```
+
 Worked with platform for monitoring reputation on the Internet
 - Developed admin panels and implemented various charts and graphs for statistical
 information display.
@@ -42,9 +41,9 @@ user engagement with data by **20 %.**
 - Followed WCAG 2.1 to improve accessibility.
 
 Technologies: React, Redux Toolkit(RTK), Typescript, Next.js, D3.js, Sockets.io, Jest
-```
+
 ### Sberbank: July 2020 - Jan 2022 (1y 6m)
-```
+
 Worked with the streaming service Zvuk
 
 - Migrated from a monolith to microfrontends.
@@ -65,11 +64,11 @@ data caching for an improved user experience.
 - Optimized the use of SSR and SSG in Next.js and separated all tasks as much as possible
 (client and server components), consequently increasing seo in the Lighthouse.
 Technologies: React, Redux Toolkit(RTK), Typescript, Next.js, Ant Design(ANDT), Chart.js
-```
+
 
 ### OBOZ: Mar 2019 - July 2020 (1y 4m)
 
-```
+
 Worked with a logistics-related CRM system
 
 - Increased crash-free users rate from **91. 6 %** to **97. 2 %**.
@@ -79,15 +78,15 @@ Worked with a logistics-related CRM system
 - Implemented the front part of the notification system
 - Authored project documentation and worked with Webpack configuration.
 Technologies: React, Redux, Javascript
-```
+
 ## EDUCATION
 
 ### MOSKOW ACADEMY OF ENTREPRENEURSHIP - MASTER, 2020 - 2022
 
-```
+
 Applied Computer Science
-```
+
 ### MOSKOW ACADEMY OF ENTREPRENEURSHIP - BACHELOR, 2016 - 2020
 
-```
+
 Programming
