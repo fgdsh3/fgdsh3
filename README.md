@@ -23,7 +23,7 @@ Other : ESlint, Prettier, Git/Github, Vite, Webpack
 
 ## EXPERIENCE
 
-###  Reputation House: Jan 2022 – Present (3y+)
+###  Reputation House: Jan 2022 – Present (2+)
 
 
 Worked with platform for monitoring reputation on the Internet
@@ -42,7 +42,7 @@ user engagement with data by **20 %.**
 
 Technologies: React, Redux Toolkit(RTK), Typescript, Next.js, D3.js, Sockets.io, Jest
 
-### Sberbank: July 2020 - Jan 2022 (1y 6m)
+### Sberbank: July 2020 - Jan 2022 (2y 1m)
 
 Worked with the streaming service Zvuk
 
