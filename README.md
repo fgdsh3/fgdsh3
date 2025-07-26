@@ -8,7 +8,7 @@ Websockets. I understand the entire development cycle (CI - CD). I Have experien
 Scrum/Agile methodologies. I have served as a buddy for new developers, acted as a
 mentor to help people to find their first job.
 
-LinkedIn: https://www.linkedin.com/in/kirill-aristarhov
+LinkedIn: http://linkedin.com/in/kirill-aristarhov-82a6ab357
 
 ## SKILLS
 
